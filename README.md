@@ -21,7 +21,7 @@ Tech Stack:
 -- Transformation : Standarization , removal of nulls( Filling out Null values) , Removing Duplicates , Creating aggregated dataframes for visualization
 
 
--- I Have Added a AWS_connect file , make changes accordingly and add file at end of your code.
+-- I Have Added a AWS_connect file , make changes accordingly provide path to file( Transfomed ) and add file at end of your code(Optional , you can run the file separatley or Add it Dags folder and make changes in dag.py to add Aws_connect). Don't FOrget to Save File in your system after Transformation done using pyspark .
 
 -- Add dag.py and main.py( In this case I have uploaded a notebook ,Just use the code and create a main.py with proper folder structure..) in your Dags folder created( you may
    have to create the folder by yourself) before firing up the Airflow..
