@@ -15,5 +15,6 @@ Tech Stack:
 -- Using boto3 client to connect to AWS S3 .
 
 
-Dataset : Air Travel and flight , containing Name ,Id ,Date OF travel , Flight taken ,Origin, Destination , Sex , Nationality and more 
+Dataset : Air Travel and flight , containing Name ,Id ,Date OF travel , Flight taken ,Origin, Destination , Sex , Nationality and more .
+
 Transformation : Standarization , removal of nulls( Filling out Null values) , Removing Duplicates , Creating aggregated dataframes for visualization
