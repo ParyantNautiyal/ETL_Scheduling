@@ -12,6 +12,7 @@ Tech Stack:
    :-To Create a container using Airflow image # Edit config file before starting ( like comment out redis and flower) to reduce CPU and memory usage 
 5. Power BI
    :- For Visualization
+   
 -- Using boto3 client to connect to AWS S3 .
 
 
@@ -22,6 +23,6 @@ Tech Stack:
 
 -- I Have Added a AWS_connect file , make changes accordingly and add file at end of your code.
 -- Add dag.py and main.py( In this case I have uploaded a notebook ,Just use the code and create a main.py with proper folder structure..) in your Dags folder created( you may
-have to create the folder by yourself) before firing up the Airflow..
+   have to create the folder by yourself) before firing up the Airflow..
 
 # Have FUN
