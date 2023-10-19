@@ -3,7 +3,7 @@ Scheduling ETL Jobs Using Airflow.
 
 Tech Stack: 
 1. Pyspark
-   :- To Transform The data
+   :- To Transform The data ( Use Databricks or for practice use google colab)
 2. Airflow
    :- To schedule the ETL jobs created using pyspark
 3. AWS S3
